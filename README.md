@@ -31,8 +31,9 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT](1.png)
 ### Output:
+![Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT](2.png)
 
 
 ### Name:
